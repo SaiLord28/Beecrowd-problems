@@ -15,6 +15,9 @@ Present the message "A=" followed by the value of the variable, as in the exampl
 Like all the problems, don't forget to print the end of line after the result, otherwise you will receive "Presentation Error".
 
 """
+
+#==================================== Solution =====================================
+
 p = 3.14159
 
 R = float(input())
